@@ -1,0 +1,4 @@
+bin  git-bash.exe  mygit			     post-install.bat  tmp
+cmd  git-cmd.exe   PortableGit			     proc	       usr
+dev  LICENSE.txt   PortableGit-2.15.0-32-bit.7z.exe  README.md	       wow.txt
+etc  mingw64	   PortableGit-2.15.0-64-bit.7z.exe  README.portable
